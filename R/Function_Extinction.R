@@ -4,7 +4,7 @@
 # Choose whether biomass compensation is active or not (TRUE / FALSE)
 # comp <- FALSE (default), compensation is inactive; comp <- TRUE, compensation is active
 # nsims sets the number of simulation (default is 500)
-# extprob defines the extinction probability, default is random
+# extprob defines the extinction probability, default is random. Test changes.
 
 
 #' Performs an extinction sequence
